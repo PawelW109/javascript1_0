@@ -1,6 +1,6 @@
 entrypoint="index.html"
 hidden=[".config"]
-modules = ["web", "python-base-3.13"]
+modules = ["web", "nodejs-20"]
 
 [nix]
 channel = "stable-25_05"
